@@ -4,13 +4,13 @@
 
 *NAME*: Haaritha S
 
-*INTERN ID*:CTIS0443
+*INTERN ID*: CTIS0443
 
-*DOMAIN*:Java Programming
+*DOMAIN*: Java Programming
 
-*DURATION*:4 Weeks
+*DURATION*: 4 Weeks
 
-*MENTOR*:Neela Santhosh Kumar
+*MENTOR*: Neela Santhosh Kumar
 
 ## Task Description
 
