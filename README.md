@@ -37,3 +37,6 @@ During my internship at **CODTECH IT Solutions**, I created a simple yet practic
 ### Conclusion
 
 This small project was a great way to combine coding with problem-solving. I was able to write a program that not only stores and displays user input but also allows updates without losing previous data. Overall, it was a meaningful step in understanding the practical side of file handling in Java and laid the groundwork for tackling more advanced programming tasks in the future.
+
+#OUTPUT
+<img width="915" height="424" alt="Image" src="https://github.com/user-attachments/assets/674f76ee-33ae-4583-9068-b9ba6bbf4389" />
